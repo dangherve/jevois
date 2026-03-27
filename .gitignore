@@ -16,3 +16,5 @@ Contrib/imgui/.github
 /jvpkg/
 
 !buildTools
+
+!.woodpecker
