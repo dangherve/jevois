@@ -14,3 +14,5 @@ Contrib/imgui/.github
 /ppbuild/
 /ppdbuild/
 /jvpkg/
+
+!buildTools
